@@ -7,6 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 import toast from "react-hot-toast";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Contact = () => {
   const formRef = useRef();
@@ -81,6 +82,7 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
+        <p className="flex items-center gap-1"><FaWhatsapp></FaWhatsapp>: 01921342610</p>
 
         <form
           ref={formRef}
