@@ -19,5 +19,5 @@ This portfolio is built using **React.js, Tailwind CSS, and DaisyUI** to ensure 
 - **Other Tools:** React Icons, Framer Motion (if used)  
 
 ## 📸 Live Demo
-🔗 [View Portfolio](#) _()_
+🔗 [View Portfolio](#) _(https://nurealam.netlify.app/)_
 
